@@ -27,6 +27,7 @@
 # Where am I deployed?
 
 View Demo
-([deploy-this-repo-phongnguyen887.vercel.app](https://deploy-this-repo-phongnguyen887-phong-nguyen.vercel.app/)))
+([deploy-this-repo-phongnguyen887.vercel.app](https://24fa490-deploy-this-repo-phongnguyen887-phong-nguyen.vercel.app/))
+
 This demo only last for 14 days from Oct 27, 2024 (Vercel Pro trial only 14 days)
 
